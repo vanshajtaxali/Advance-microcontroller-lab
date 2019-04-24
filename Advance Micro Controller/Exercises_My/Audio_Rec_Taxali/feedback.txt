@@ -1,0 +1,22 @@
+/***************************************************************************//**
+ * @file    feedback.txt
+ * @author  <Vanshaj Taxali>
+ * @date    <16-07-2018>
+ *
+ * @brief   A feedback for exercise sheet 5.
+ ******************************************************************************/
+ 
+ TASK RELATED FEEDBACK
+ 1)The project is not fully complete, meaning some debugging is required which is beyond my scope and some expert advice is needed.
+ 2)As far as the concept goes for the audio recorder I am pretty sure that I am right on that point and some 
+ code fixes are required to make it run perfectly. 
+ 3)The live streaming from a PC to the Mic input via aux cable works but its distorted(I havent tried it with a microphone though as I dont have one). The record function does record some distorted audio samples
+ but not complete and the reason is something im not completley sure .  
+ 4)There are some times I have observed that while debugging is that during the spi_read or spi_write my code goes into the lowpower mode and does,nt come out but it is not always the case 
+ also in the last feedback I was told to do active waiting which I do in my isr but do I have to do it before as well?? I dont understand why?
+ 
+ GENERAL FEEDBACK
+ 1)The Exercise was interesting but it is alot of work although it gave me an imense amount of knowledge but 
+ should be of more credits.
+ 2)It would have been easier to implement it in a group as it helps analyse shortcoming better and also saves a lot of time without compromising the knowledge
+ 3) All in all I need to get some expertise while debugging a code, it sounds wiered but I still dont know a lot of reasons to some issues and in this case as well.

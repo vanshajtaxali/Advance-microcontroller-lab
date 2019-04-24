@@ -1,0 +1,22 @@
+/***************************************************************************//**
+ * @file    feedback.txt
+ * @author  <VANSHAJ TAXALI>
+ * @email   <vanshajtaxali94@gmail.com>
+ * @date    <16-06-2018>
+ *
+ * @brief   A feedback for exercise sheet 4.
+ ******************************************************************************/
+ 
+ GENERAL FEEDBACK
+ This exercise was easier than the last one in terms of studying but logical implementation was not that easy. 
+ It was fun but it was very time consuming
+ I could not complete the main function as required on time as there are some bug fixes required for my libraries.
+	
+ TASK RELATED FEEDBACK
+1)I am not completley sure if my interrupt_routine was implemented correctly it was really ahead scratcher!
+2)A lot of debugging has been done and tried my level best to do as much as possible.
+3)the problem is my program does not go in the  
+if(spi_txdataLength > 0) condition when i implement flash_write(); withe spi_write(); it goes i guess the issue is with the interrupt flags 
+4)I would like to discuss this with you in person whenever possible and correct my mistakes.
+The extra time I debugged it and made it a little better and was enlightenment indeed but thats not enough as the upcoming
+project need much more indepth knowledge.

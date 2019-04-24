@@ -1,0 +1,2 @@
+My only problem was getting it to run with the initialization from the LCD_MODUL_16X2.pdf file. Maybe the problem was with some delays not set properly. But when I did the initialization from the LCD's original datasheet, and worked fine.
+After the initialization was working, everything else was easy to make, and worked wihtout a problem.

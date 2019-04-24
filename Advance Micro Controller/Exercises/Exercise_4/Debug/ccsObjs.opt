@@ -1,0 +1,1 @@
+"./main.obj" "./libs/LCD.obj" "./libs/adac.obj" "./libs/audio.obj" "./libs/flash.obj" "./libs/i2c.obj" "./libs/isl.obj" "./libs/spi.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 

@@ -1,0 +1,20 @@
+/***************************************************************************//**
+ * @file    feedback.txt
+ * @author  <Vanshaj Taxali> @Mtr Nr: <4558621>
+ * @email   <vanshajtaxali94@gmail.com>
+ * @date    <02/06/2018>
+ *
+ * @brief   A feedback for exercise sheet 3.
+ ******************************************************************************/
+GENERAL FEEDBACK
+ This exercise was seriously very hard. 
+ The amount of reading it required was way to much although it was fun but it was very time consuming
+ as I have not implemented the I2C library in EX2 I did it here (ofcourse application specific) hence it was double effort.
+ One suggestion : Kindly give little more time for execution and when we have to build everything from scratch it becomes
+ very difficult to have a perfect implrmrntation
+ 
+ TASK RELATED FEEDBACK
+ I could not understand the use of implementing adac.h as it is not required hence I did not do it
+ I could not implement bubble implementation as it was very difficult for me to callibrate it with the sensor and also havent 
+ implemented charachter implementation previously instead I print values of each individual axis
+ And appologies for late submission as my cable broke down.

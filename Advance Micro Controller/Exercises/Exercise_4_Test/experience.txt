@@ -1,0 +1,5 @@
+I've disconnected Con5:D6 from P3.6 as I see no use for it (the forum discussions found no use for it as well), and prefer my code this way, without having to account for it when using my display and outputting sound simultaneously.
+I also connected the jumpers on the main board on P2.0 - P2.3.
+Integration was the worst part, as I encountered an error that the compiler couldn't identify, and it took me a lot of time until I managed to shake the error off.
+
+I like the idea that we do a final exercise with of the previous reused, but it would've been better to know that from the beginning, as we would have realized that we don't need to disconnect the wires :D. And it will encourage us to work earlier on the exercises, since there is a sense of continuity (that's my opinion at least).

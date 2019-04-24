@@ -1,0 +1,7 @@
+The board has to be powered off between different compile versions, otherwise the changes will not take effect (or it doesn't work somehow).
+The adac module had to be altere
+The use of i2c_init function makes sense now, and as a result, the adac had to be altered to remove the address from the beginning of each operation.
+There are some typos in the provided template: mma_getRealX is written 3 times.
+The i2c dedicated machine doesn't perform as promised. It was promised that whenever I send a stop signal while reading the byte before the last, that only one more byte will be read. And then the machine sends a NACK followed by a stop signal. This sometimes doesn't happen. 
+
+The i2c device is a mess, a lot of my code are workarounds to make it work, and from some forums I saw, so does some developers at TI often use workarounds when using their own product. Having said that, I believe there will always be a way to make something work, but in this exercise, it takes a lot of time and effort compared to the previous exercises to figure these out. And as we approach the end of the lectures' period, time is very scarce. So, it would've been much more educationally beneficial for me to try to implement a realistic 2-axis bubble level display, and the other requirements that I missed to deliver rather than wasting my time trying to use a tool that is in my opinion poorly documented, and needs a lot of time to figure out how to accomplish something with it, when I already have implemented a manual i2c library.

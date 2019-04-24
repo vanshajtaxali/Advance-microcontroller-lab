@@ -1,0 +1,20 @@
+/***************************************************************************//**
+ * @file    feedback.txt
+ * @author  <Vanshaj Taxali>
+ * @date    <05-05-2018>
+ *
+ * @brief   A feedback for exercise sheet 1.
+ ******************************************************************************/
+ GENERAL FEEDBACK
+ 1)The Exercise was interesting but it is time consuming and soaks a lot of energy but yes helpful in learning
+ 2)If possible allow group submissions as each exercise is a mini project itself and can save a lot of time without hindering the 
+ learning process
+ 
+ TASK RELATED FEEDBACK
+ 1)Could not implement the bonus question I guess I could not completley understandd the character implementation but, I did do some Hit and trial
+ but they were partially successfull.
+ 2)LCD always show gibberish output in the first run despite lcd_clear() dont know why? I guess some problem with my lcd_init() function
+ 3)Implemented the main function haphhazardly tried implementing all functions.
+ 4)Some external help was taken to optimise library function.
+ 
+ 

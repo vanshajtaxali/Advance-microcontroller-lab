@@ -1,0 +1,2 @@
+The presence of the init functions is confusing, and introduces a lot of hassle because I'm trying to keep it useful to some extent, while it is unnecessary in our case, since we always need a start condition with the address of the I2C device to do either begin writing or reading. 
+Since I'm trying to keep my design as modular as possible, I'm only calling it my init functions at the beginning, even though I'm not actually using them.
